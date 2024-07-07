@@ -2,7 +2,7 @@ This is a project on the Data Science MSc programme for the course "Advanced Mac
 
 The goal for the competition was to detect pneumonia from X-Rays. The "Advanced Machine Learning-Pneumonia Detection" pdf file will guide you through the thought process - and execution.
 
-**TLDR;** It involves various techniques, including a custom 9-layer CNN, handling overfitting with Dropout layers, L2 Regularization techniques and K-Fold cross validation, Visual Transformers, data augmentation and fine-tuning.
+**TLDR;** It involves various techniques, including a custom 9-layer CNN, handling overfitting with Dropout layers, Early Stopping, L2 Regularization techniques and K-Fold cross validation, Visual Transformers, data augmentation and fine-tuning.
 
 After various attempts, we ended up using 2 pretrained models, the "EfficientNet B0" and the "DenseNet 121". The best result came after using ensembling techniques.
 
