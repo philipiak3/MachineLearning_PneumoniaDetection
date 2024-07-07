@@ -6,4 +6,4 @@ The goal for the competition was to detect pneumonia from X-Rays. The "Advanced 
 
 After various attempts, we ended up using 2 pretrained models, the "EfficientNet B0" and the "DenseNet 121". The best result came after using ensembling techniques.
 
-We trained 2 EfficientNet B0 and 2 DenseNet 121 models with the "Adam" optimizer and froze different amounts of layers on each model (depending on the pre-trained model), and we then used an ensemble of these 4 models, achieving an accuracy of 85%.
+We trained 2 EfficientNet B0 and 2 DenseNet 121 models with the "Adam" optimizer and froze different amounts of layers on each model (depending on the pre-trained model), and we then used an ensemble of these, achieving an accuracy of 85%.
