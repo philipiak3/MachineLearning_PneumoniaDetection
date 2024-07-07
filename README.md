@@ -1,4 +1,4 @@
-This is a project on the Data Science MSc programme for the course "Advanced Machine Learning". This was an Image Classification Kaggle competition on which me and my colleague managed to finish in the second place.
+This is a project on the Data Science MSc programme for the course "Advanced Machine Learning". This was an Image Classification Kaggle competition using Keras / Tensorflow, on which me and my colleague managed to finish in the second place.
 
 The goal for the competition was to detect pneumonia from X-Rays. The "Advanced Machine Learning-Pneumonia Detection" pdf file will guide you through the thought process - and execution.
 
